@@ -1,0 +1,22 @@
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+requests>=2.31.0
+rich>=13.7.0
+
+# LLM Sağlayıcıları
+openai>=1.40.0
+google-genai>=1.0.0
+google-generativeai>=0.8.0
+
+# LangChain Eko-sistemi (Aşama 2-4 için)
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+langchain-google-genai>=2.0.0
+langgraph>=0.2.0
+
+# RAG & Vektör Veritabanı (Aşama 2 için)
+chromadb>=0.5.0
+pypdf>=4.0.0
+tiktoken>=0.7.0
